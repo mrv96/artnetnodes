@@ -18,12 +18,11 @@ Before selling these on Tindie, I have used them in many productions thus far. M
 **Compare our nodes:**
 
 |               | DMX Output    | RDM Capable | USB Programablilty | PixelFS Support | DMX Input       |
-| ------------- |:-------------:|:-----------:|:------------------:| :---------------: | :---------:       |
+| ------------- |:-------------:|:-----------:|:------------------:| :---------------: | :---------:   |
 | Generation 1  | Y             | N           | N                  | N               | N               |
 | Generation 2  | Y             | N           | Y                  | N               | N               |
-| **Generation 3**  | Y             | Y           | Y                  | Y | Y |
+| Generation 3  | Y             | Y           | Y                  | Y               | Y               |
 
-**Our third-generation reduces latency, provides USB programmability, allows for DMX inputs, RDM compatible, and can support PixelFX. 
-**
+**Our third-generation reduces latency, provides USB programmability, allows for DMX inputs, RDM compatible, and can support PixelFX.**
 
 (please note that our DMX nodes are based on [mtongnz's dmx node](https://github.com/mtongnz) library)
