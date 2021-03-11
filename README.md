@@ -1,4 +1,4 @@
-# expanseElectronics Artnet Node Software (gen 2)
+# expanseElectronics Artnet Node (gen 2)
 
 **Please select the node generation from the branch menu above.**
 **You are currently in the 2nd Generation branch.**
