@@ -1,4 +1,4 @@
-# expanseElectronics Artnet Node Software (gen 3)
+# expanseElectronics Artnet Node (gen 3)
 
 **Please select the node generation from the branch menu above.**
 **You are currently in the 3rd Generation branch.**
