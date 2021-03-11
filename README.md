@@ -23,6 +23,13 @@ Before selling these on Tindie, I have used them in many productions thus far. M
 | Generation 2  | Y             | N           | Y                  | N               | N               |
 | Generation 3  | Y             | Y           | Y                  | Y               | Y               |
 
+### **Power Statistics:**
+| | Volts | Milliamperes | Watts |
+| --------     | :--------:  |:--------:| :----------------: |
+| Generation 1 | 5.10V (USB) | 0.243    | 1.2903             |
+| Generation 2 | 5.09V (USB) | 0.154    | 0.7839             |
+| Generation 3 | 5.12V (USB) | 0.098    | 0.5018             |
+
 **Our third-generation reduces latency, provides USB programmability, allows for DMX inputs, RDM compatible, and can support PixelFX.**
 
 (please note that our DMX nodes are based on [mtongnz's dmx node](https://github.com/mtongnz) library)
