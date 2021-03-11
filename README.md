@@ -18,7 +18,7 @@ Before selling these nodes on Tindie, I have used them in many productions thus 
 **Compare our nodes:**
 
 |               | DMX Output    | RDM Capable | USB Programablilty | PixelFS Support | DMX Input       |
-| ------------- |:-------------:|:-----------:|:------------------:| --------------- | ---------       |
+| ------------- |:-------------:|:-----------:|:------------------:| :---------------: | :--------:       |
 | Generation 1 | Y             | N           | N                  | N               | N               |
 | Generation 2 | Y             | N           | Y                  | N               | N               |
 | Generation 3  | Y             | Y           | Y                  | Y | Y |
