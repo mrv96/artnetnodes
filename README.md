@@ -1,6 +1,7 @@
 # expanseElectronics Artnet Node Software (gen 1)
 
 **Please select the node generation from the branch menu above.**
+**You are currently in the 1st Generation branch.**
 
 
 ### **About:**
