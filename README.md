@@ -3,7 +3,8 @@
 **Please select the node generation from the branch menu above.**
 **You are currently in the 2nd Generation branch.**
 
-### **THIS PRODUCT IS DISCONTINUED**
+### [**THIS PRODUCT IS DISCONTINUED** PLEASE SEE OUR WEBSITE FOR OUR CURRENT PRODUCTS](https://expanseelectronics.com)
+
 
 ![g6](https://user-images.githubusercontent.com/63847434/156920977-4c5847bc-433d-4f1a-bf05-70145ffae9da.jpg)
 
