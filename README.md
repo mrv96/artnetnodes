@@ -3,6 +3,8 @@
 **Please select the node generation from the branch menu above.**
 **You are currently in the 2nd Generation branch.**
 
+### **THIS PRODUCT IS DISCONTINUED**
+
 ![g6](https://user-images.githubusercontent.com/63847434/156920977-4c5847bc-433d-4f1a-bf05-70145ffae9da.jpg)
 
 ### **About:**
@@ -10,8 +12,6 @@ As a lighting technician, I often have to run cables across walkways, moving pro
 
 ### **Some demos:**
 Before selling these nodes on Tindie, I have used them in many productions thus far. I most recently used the 2nd generation nodes in CUTAZZ’s performance of ‘Synergy’ performed by the CUTAZZ Dance Society at the [(Leys Great Hall)](https://www.theleys.net/591/venue-hire/great-hall) where we used two of our second-generation nodes for two followspots mounted at the rear of the circle. The wireless capabilities came in super useful when the nearest DMX outlet was nearly 20m away. It only took us only a couple of minutes per node to have them all hooked up to our ETC Nomad System.
-
-*Photograph of 'Synergy' by CUTAZZ, performed at Leys Great Hall.*
 
 ### 
 **Compare our nodes:**
