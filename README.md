@@ -3,7 +3,7 @@
 **Please select the node generation from the branch menu above.**
 **You are currently in the 2nd Generation branch.**
 
-![2nd Generation Node](https://expanseelectronics.com/assets/images/gallery/g3.jpg)
+![2nd Generation Node](https://user-images.githubusercontent.com/63847434/156920914-63d5df90-b874-436f-b142-a717308bae12.jpg)
 
 ### **About:**
 As a lighting technician, I often have to run cables across walkways, moving props, or only awkward places to run a wire. Wouldn't it be nice to have a wireless solution? While there are many commercial units available using various protocols, they are either expensive or unreliable. With our product, you could have any show set up within hours! With its slim and compact design, it fits right in your pocket! With the implementation of Wi-Fi, there is no need to worry about cables. Stored scenes allow for instant playback through the web interface with nearly no latency. 
